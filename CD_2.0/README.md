@@ -25,3 +25,6 @@
 ## Result
 
  ![gif](result.gif)
+
+![image](code_ex2.png)
+![image](code_ex3.png)
