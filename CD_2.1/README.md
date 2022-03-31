@@ -11,7 +11,7 @@
 ## Контрольные вопросы
 - Приведите аналоги тегов html в React Native:
 
-:white_check_mark: div - view разделяет экран 
+:white_check_mark: div - view - разделяет экран 
 
 :white_check_mark: p - text - разделяет на параграфы 
 
