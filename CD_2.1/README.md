@@ -1,11 +1,26 @@
-# Sample Snack app
+# Стили в React Native
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## Цель работы
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+### Получить навыки работы со стилями в React Native.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## Задания для выполнения
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+- Используя стартовый шаблон https://snack.expo.io/ оформите контент
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## Контрольные вопросы
+- Приведите аналоги тегов html в React Native:
+:white_check_mark: div - view разделяет экран 
+:white_check_mark: p - text - разделяет на параграфы 
+:white_check_mark: img - image - вставляет изображения 
+:white_check_mark: button - в "react native" аналогично
+
+# Report
+
+![image](code_ex.png)
+
+## Result
+
+![gif](example_style.gif)
+
+![image](code_ex1.png)
