@@ -22,8 +22,6 @@
 ## Дополнительные задания:
 :white_check_mark: Добавьте кнопку «Читать далее»
 
-# Report
-
 ![image](code_ex.png)
 
 ## Result
