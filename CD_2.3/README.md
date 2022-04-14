@@ -12,7 +12,7 @@
 
 - Какой компонент является базовым?
 
-:white_check_mark: 
+:white_check_mark: горизонтальный ScrollView
 
 ## Result
 
