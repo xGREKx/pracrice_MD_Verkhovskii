@@ -24,7 +24,7 @@
 
 ![image](ex_2.png)
 
-![image](code_ex.png)
+![image](ex_3.png)
 
 # Project
 
