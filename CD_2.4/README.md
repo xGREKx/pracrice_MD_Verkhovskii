@@ -13,6 +13,8 @@
 
 -	Добавьте Navigation Drawer
 
+![image](code_ex.png)
+
 ## Result
 
 ![gif](example.gif)
@@ -22,8 +24,6 @@
 ![image](ex_2.png)
 
 ![image](ex_3.png)
-
-![image](code_ex.png)
 
 # Project
 
