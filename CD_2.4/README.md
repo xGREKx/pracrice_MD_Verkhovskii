@@ -11,8 +11,7 @@
 
 ## Как установить зависимости для управляемого проекта Expo?
 
-Для того, чтобы установить все необходимые зависимости для проекта Expo нужно в каталоге проекта запустить: expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context Это установит версии библиотек, которые совместимы.
-
+:white_check_mark: Для того, чтобы установить все необходимые зависимости для проекта Expo нужно в каталоге проекта запустить: expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context, это установит версии библиотек, которые совместимы.
 
 ## Дополнительные задания
 
