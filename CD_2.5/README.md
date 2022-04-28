@@ -1,11 +1,34 @@
-# Sample Snack app
+# Навигация в React Native
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+## Цель работы
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+- В этой работе мы рассмотрим стандартный метод навигации, называемый навигацией по стеку. 
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## Задания для выполнения
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+-	Используя официальную документацию https://reactnative.dev/docs/navigation создайте три экрана вместе с навигайцией по ним
+-	Добавьте основные компоненты на экраны и создайте книгу контактов, галерею или любое другое простое приложение
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+## Как установить зависимости для управляемого проекта Expo?
+
+:white_check_mark: Для того, чтобы установить все необходимые зависимости для проекта Expo нужно в каталоге проекта запустить: expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context, это установит версии библиотек, которые совместимы.
+
+## Дополнительные задания
+
+-	Добавьте Navigation Drawer
+
+![image](code_ex.png)
+
+## Result
+
+![gif](example.gif)
+
+![image](ex.png)
+
+![image](ex_2.png)
+
+![image](ex_3.png)
+
+# Project
+
+https://snack.expo.dev/@xgrekx/cd2_5
