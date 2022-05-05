@@ -12,6 +12,10 @@
 
 :white_check_mark: margintop, bottom
 
-## Result
+# Result
 
 ![gif](ex.gif)
+
+# Project
+
+https://snack.expo.dev/@xgrekx/cd2_6
