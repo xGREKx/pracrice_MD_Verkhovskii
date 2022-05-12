@@ -10,8 +10,8 @@
 
 # Result
 
-![images](ex1.gif)
+![images](ex1.png)
 
-![images](ex2.gif)
+![images](ex2.png)
 
-![images](ex3.gif)
+![images](ex3.png)
