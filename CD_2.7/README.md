@@ -1,12 +1,12 @@
-# Установка среды разработки
+# Передача данных с формы
 
 ## Задания для выполнения
 
-- Следуя руководству https://www.reactnative.express/environment/quick_start установите среду разработки React Native.
+- Изучите реализованный пример: https://snack.expo.dev/49WY2dQMS.
 
-- Добавьте функциональные элементы на экран, обновите приложение.
+- Ознакомьтесь с описанием компонента ImageBackground https://docs.expo.dev/ui-programming/image-background/
 
-- Поделитесь ссылкой на проект в Expo.
+- Используя реализованную навигацию для велком-скрина с регистрацией (лабораторная 7), создайте экран с приветствием, данные на который будут поступать с соседнего экрана.
 
 # Result
 
@@ -14,8 +14,6 @@
 
 ![images](ex2.png)
 
-![images](ex3.jpg)
-
 # Project 
 
-https://snack.expo.dev/@xgrekx/course-ready
+https://snack.expo.dev/@xgrekx/cd2_8
