@@ -10,9 +10,9 @@
 
 # Result
 
-![images](ex1.png)
+![images](ex_1.png)
 
-![images](ex2.png)
+![images](ex_2.png)
 
 # Project 
 
